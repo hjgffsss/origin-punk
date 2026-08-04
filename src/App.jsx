@@ -5,8 +5,8 @@ import CoinbaseWalletSDK from "@coinbase/wallet-sdk";
 import QRCode from "qrcode";
 import {
   Wallet, X, Search, ChevronDown, Zap, Layers, Trophy, LayoutGrid,
-  Home as HomeIcon, Check, Clock, TrendingUp,
-  ShieldCheck, Pause, Play, Copy, Filter, SlidersHorizontal, Loader2
+  Home as HomeIcon, Check, Clock, TrendingUp, Users, Tag, ShoppingBag,
+  Sparkles, ShieldCheck, Pause, Play, Copy, Filter, SlidersHorizontal, Loader2
 } from "lucide-react";
 
 /* ============================================================================
